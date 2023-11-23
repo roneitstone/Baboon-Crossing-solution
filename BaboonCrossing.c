@@ -1,5 +1,4 @@
 /*
-Nome : Eduardo Bruno Martins Esperanca e Jose Henrique Soter
 Trabalho da travessia dos babuinos 
 Feito em c num computador com sistema operacional:
 No LSB modules are available.
